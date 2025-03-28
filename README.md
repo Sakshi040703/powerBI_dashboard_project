@@ -1,6 +1,6 @@
 # powerBI_dashboard_project
 **##PROJECT OBJECTIVE:**
-A company wanted to create an attendace report of employees using PowerBI. so that, the HR of company can understand their employees comfort.
+A company wanted to create an attendance report of employees using PowerBI. so that, the HR of company can understand their employees comfort.
 
 **##QUESTIONS (KPIs):**
 -What is the attendace percentage of a employee with the help of dashboard
