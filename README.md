@@ -7,9 +7,9 @@ A company wanted to create an attendace report of employees using PowerBI. so th
 
 -Find sick leave %
 
--What is working preference of people between WFH and WFO
+-What is working preference of employee between WFH and WFO
 
--Which days of thr week employees prefer WFH
+-Which days of the week employees prefer WFH
 
 -For which reason employee are taking leaves
 
