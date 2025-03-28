@@ -5,7 +5,7 @@ A company wanted to create an attendace report of employees using PowerBI. so th
 **##QUESTIONS (KPIs):**
 -What is the attendace percentage of a employee with the help of dashboard
 
--Find sik leave %
+-Find sick leave %
 
 -What is working preference of people between WFH and WFO
 
